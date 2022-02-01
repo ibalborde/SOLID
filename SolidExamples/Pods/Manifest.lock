@@ -1,0 +1,18 @@
+PODS:
+  - SQLite.swift (0.13.2):
+    - SQLite.swift/standard (= 0.13.2)
+  - SQLite.swift/standard (0.13.2)
+
+DEPENDENCIES:
+  - SQLite.swift (~> 0.13.2)
+
+SPEC REPOS:
+  trunk:
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  SQLite.swift: 4fc2be46c36392e3b87afe6fe7f1801c1daa07ef
+
+PODFILE CHECKSUM: 9119175490548e19393a0c3153cba6add1a5d075
+
+COCOAPODS: 1.11.2
